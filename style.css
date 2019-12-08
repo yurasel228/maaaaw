@@ -38,7 +38,7 @@ input:active {
 body {
   display: flex;
   flex-direction: column;
-  background-color: ghostwhite;
+  background-color: burlywood;
   background-image: url(images/5.jpg);
   background-size: 100%;
 
