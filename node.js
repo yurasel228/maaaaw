@@ -19,7 +19,8 @@ a.onclick = () => {
   x.parentNode.removeChild(x);
   a.parentNode.removeChild(a);
   q.parentNode.removeChild(q);
-  
+  plus.parentNode.removeChild(plus);
+  minus.parentNode.removeChild(minus);
   j = x.value;
   b = q.value;
   j = j.split(" ");
